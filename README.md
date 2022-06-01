@@ -8,7 +8,7 @@ Anggota Kelompok :
 3. Tio Larizky (2006574433)
 
 
-LATAR BELAKANG
+LATAR BELAKANG:
   Pembangunan fasilitas umum membutuhkan lahan yang cukup luas bukan hanya untuk tempat fasilitas tersebut, namun juga untuk lahan parkir bagi para pengunjung yang mengunjungi tempat tersebut. Dengan keadaan tersebut, pengaturan lahan parkir sangat diperlukan terutama bagi manajemen fasilitas umum tersebut untuk mengetahui berapa kapasitas lahan parkir keseluruhan, berapa lahan parkir yang kosong, dan berapa biaya parkir kendaraan yang terparkir. Oleh karena itu, kami dari Kelompok Heatsink mencoba untuk menciptakan program yang akan memecahkan permasalah tersebut dengan program kami yang bernama Link in Park. 
 
 

@@ -1,4 +1,4 @@
-# LastProject_Algoritma-dan-Pemrograman
+# Proyek Akhir Algoritma dan Pemrograman
 
 PROGRAM LINK IN PARK 
 
